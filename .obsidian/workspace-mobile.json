@@ -1,0 +1,61 @@
+{
+  "main": {
+    "id": "e21f0780745b5c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae91ee79f87f66c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd71439d4bdeef2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEL-1000-EX-Socrative-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da2b275a878ae4f5",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d7f6fb1f38e6b66f",
+    "type": "mobile-drawer",
+    "children": [],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "cd71439d4bdeef2e",
+  "lastOpenFiles": [
+    "Calendar.md",
+    "GEL-1000-EX-1.md",
+    "GEL-1000-REV-1.md",
+    "Tension électrique.md",
+    "GEL-1000.md",
+    "GEL-1000-EX-Socrative-1.md"
+  ]
+}

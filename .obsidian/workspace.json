@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e21f0780745b5c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bca1b2bf99723cb",
+        "type": "tabs",
+        "dimension": 49.71223021582733,
+        "children": [
+          {
+            "id": "558473a00c944deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STT-2920-EX-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "b5b4560f3aef167d"
+          }
+        ]
+      },
+      {
+        "id": "ea7d3cc0b033d73b",
+        "type": "tabs",
+        "dimension": 50.28776978417267,
+        "children": [
+          {
+            "id": "3ce35993eb66e939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STT-2920-EX-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "b5b4560f3aef167d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71060ff219542ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "809d774bcf2f32c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87755d2fe7ed8bc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd1da3870073bfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee0977503a3f10ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0467cf2d397d059b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d1fdf049e027b6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "3bb0178be2311b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e27d74710652435",
+        "type": "tabs",
+        "dimension": 30,
+        "children": [
+          {
+            "id": "bb40b506f7532bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STT-2920-EX-1.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a05b681345bc3145",
+        "type": "tabs",
+        "dimension": 70,
+        "children": [
+          {
+            "id": "4d010a3fa5074fdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STT-2920-EX-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "3ce35993eb66e939",
+  "lastOpenFiles": [
+    "STT-2920.md",
+    "GLO-2100.md",
+    "MAT-2930.md",
+    "Calendar.md",
+    "GLO-2100-Labo-1.md",
+    "GEL-1000.md",
+    "GEL-1000-EX-Socrative-1.md",
+    "GEL-1000-EX-1.md",
+    "Résistance électrique.md",
+    "STT-2920-EX-1.md",
+    "Templates/Exercise-Template.md",
+    "STT-2920-REV-1.md",
+    "Cas discret.md",
+    "Cas continue.md",
+    "Admittance.md",
+    "Circuit électrique.md",
+    "Composante électrique.md",
+    "Condensateur électrique.md",
+    "Conducteur électrique.md",
+    "Courant électrique.md",
+    "Élément électrique.md",
+    "Ensemble fondamental.md",
+    "Événement.md",
+    "Expérience aléatoire.md",
+    "GEL-1000-REV-1.md",
+    "Impédance.md",
+    "Templates",
+    "Classes/Untitled",
+    "Classes"
+  ]
+}
