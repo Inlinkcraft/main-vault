@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Class-Template",
+      "path": "Templates/Class-Template.md"
+    },
+    {
+      "basename": "GLO-2100",
+      "path": "GLO-2100.md"
+    },
+    {
+      "basename": "GEL-1000",
+      "path": "GEL-1000.md"
+    },
+    {
+      "basename": "Calendar",
+      "path": "Calendar.md"
+    },
+    {
       "basename": "STT-2920-EX-1",
       "path": "STT-2920-EX-1.md"
     },
@@ -9,24 +29,12 @@
       "path": "STT-2920.md"
     },
     {
-      "basename": "GLO-2100",
-      "path": "GLO-2100.md"
-    },
-    {
       "basename": "MAT-2930",
       "path": "MAT-2930.md"
     },
     {
-      "basename": "Calendar",
-      "path": "Calendar.md"
-    },
-    {
       "basename": "GLO-2100-Labo-1",
       "path": "GLO-2100-Labo-1.md"
-    },
-    {
-      "basename": "GEL-1000",
-      "path": "GEL-1000.md"
     },
     {
       "basename": "GEL-1000-EX-Socrative-1",
@@ -131,10 +139,6 @@
     {
       "basename": "Tension électrique",
       "path": "Tension électrique.md"
-    },
-    {
-      "basename": "Class-Template",
-      "path": "Templates/Class-Template.md"
     },
     {
       "basename": "Revision-Template",
