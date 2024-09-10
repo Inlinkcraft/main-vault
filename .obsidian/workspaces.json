@@ -15,10 +15,10 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Calendar.md",
-                    "mode": "source",
+                    "file": "README.md",
+                    "mode": "preview",
                     "backlinks": true,
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -112,7 +112,7 @@
         }
       },
       "active": "cd71439d4bdeef2e",
-      "mtime": "2024-08-27T14:06:30-04:00"
+      "mtime": "2024-09-10T15:17:13-04:00"
     },
     "Working": {
       "main": {
@@ -130,7 +130,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Calendar.md",
+                    "file": "README.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -151,7 +151,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Calendar.md",
+                    "file": "README.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -243,7 +243,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Liste de cours....md"
+                    "file": "README.md"
                   }
                 }
               }
@@ -260,6 +260,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "README.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -288,9 +289,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "87755d2fe7ed8bc2",
-      "mtime": "2024-09-03T20:27:00-04:00"
+      "active": "558473a00c944deb",
+      "mtime": "2024-09-10T15:17:57-04:00"
     }
   },
-  "active": "Home"
+  "active": "Working"
 }

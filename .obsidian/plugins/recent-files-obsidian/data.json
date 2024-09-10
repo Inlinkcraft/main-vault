@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "GLO-2100-REV-1",
+      "path": "GLO-2100-REV-1.md"
     },
     {
-      "basename": "Class-Template",
-      "path": "Templates/Class-Template.md"
+      "basename": "Récursivité",
+      "path": "Récursivité.md"
+    },
+    {
+      "basename": "Notation asymptotique",
+      "path": "Notation asymptotique.md"
     },
     {
       "basename": "GLO-2100",
       "path": "GLO-2100.md"
     },
     {
-      "basename": "GEL-1000",
-      "path": "GEL-1000.md"
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Opération baromètre",
+      "path": "Opération baromètre.md"
+    },
+    {
+      "basename": "Approche algorithmique",
+      "path": "Approche algorithmique.md"
+    },
+    {
+      "basename": "Approche empirique",
+      "path": "Approche empirique.md"
+    },
+    {
+      "basename": "MAT-2930",
+      "path": "MAT-2930.md"
     },
     {
       "basename": "Calendar",
       "path": "Calendar.md"
+    },
+    {
+      "basename": "Algorithme",
+      "path": "Algorithme.md"
+    },
+    {
+      "basename": "STT-2920-REV-1",
+      "path": "STT-2920-REV-1.md"
+    },
+    {
+      "basename": "Class-Template",
+      "path": "Templates/Class-Template.md"
+    },
+    {
+      "basename": "GEL-1000",
+      "path": "GEL-1000.md"
     },
     {
       "basename": "STT-2920-EX-1",
@@ -27,10 +63,6 @@
     {
       "basename": "STT-2920",
       "path": "STT-2920.md"
-    },
-    {
-      "basename": "MAT-2930",
-      "path": "MAT-2930.md"
     },
     {
       "basename": "GLO-2100-Labo-1",
@@ -51,10 +83,6 @@
     {
       "basename": "Exercise-Template",
       "path": "Templates/Exercise-Template.md"
-    },
-    {
-      "basename": "STT-2920-REV-1",
-      "path": "STT-2920-REV-1.md"
     },
     {
       "basename": "Cas discret",
@@ -171,30 +199,6 @@
     {
       "basename": "GLO-2100-TP3",
       "path": "GLO-2100-TP3.md"
-    },
-    {
-      "basename": "GLO-2100-TP2",
-      "path": "GLO-2100-TP2.md"
-    },
-    {
-      "basename": "MAT-2930-TP1",
-      "path": "MAT-2930-TP1.md"
-    },
-    {
-      "basename": "Travail-Template",
-      "path": "Templates/Travail-Template.md"
-    },
-    {
-      "basename": "MAT-2930-TP4",
-      "path": "MAT-2930-TP4.md"
-    },
-    {
-      "basename": "MAT-2930-TP3",
-      "path": "MAT-2930-TP3.md"
-    },
-    {
-      "basename": "MAT-2930-TP2",
-      "path": "MAT-2930-TP2.md"
     }
   ],
   "omittedPaths": []

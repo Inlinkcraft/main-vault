@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "ae91ee79f87f66c3",
+        "id": "2bca1b2bf99723cb",
         "type": "tabs",
+        "dimension": 49.71223021582733,
         "children": [
           {
-            "id": "cd71439d4bdeef2e",
+            "id": "558473a00c944deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GLO-2100-REV-1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "b5b4560f3aef167d"
+          }
+        ]
+      },
+      {
+        "id": "ea7d3cc0b033d73b",
+        "type": "tabs",
+        "dimension": 50.28776978417267,
+        "children": [
+          {
+            "id": "3ce35993eb66e939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GLO-2100-REV-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "b5b4560f3aef167d"
           }
         ]
       }
@@ -87,15 +110,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 248.5
   },
   "right": {
     "id": "3bb0178be2311b33",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "1e27d74710652435",
+        "type": "tabs",
+        "dimension": 30,
+        "children": [
+          {
+            "id": "bb40b506f7532bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GLO-2100-REV-1.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a05b681345bc3145",
+        "type": "tabs",
+        "dimension": 70,
+        "children": [
+          {
+            "id": "4d010a3fa5074fdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GLO-2100-REV-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,34 +173,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cd71439d4bdeef2e",
+  "active": "3ce35993eb66e939",
   "lastOpenFiles": [
-    "Templates/Class-Template.md",
-    "README.md",
+    "Récursivité.md",
+    "GLO-2100-REV-1.md",
+    "Notation asymptotique.md",
     "GLO-2100.md",
-    "GEL-1000.md",
+    "README.md",
+    "Opération baromètre.md",
+    "Approche algorithmique.md",
+    "Approche empirique.md",
+    "MAT-2930.md",
     "Calendar.md",
+    "Algorithme.md",
+    "STT-2920-REV-1.md",
+    "GLO-2100@ift.ulaval.ca.md",
+    "Templates/Class-Template.md",
+    "GEL-1000.md",
     "STT-2920-EX-1.md",
     "STT-2920.md",
-    "MAT-2930.md",
     "GLO-2100-Labo-1.md",
     "GEL-1000-EX-Socrative-1.md",
     "GEL-1000-EX-1.md",
     "Résistance électrique.md",
     "Templates/Exercise-Template.md",
-    "STT-2920-REV-1.md",
     "Cas discret.md",
     "Cas continue.md",
     "Admittance.md",
     "Circuit électrique.md",
-    "Composante électrique.md",
-    "Condensateur électrique.md",
-    "Conducteur électrique.md",
-    "Courant électrique.md",
-    "Élément électrique.md",
-    "Ensemble fondamental.md",
-    "Événement.md",
-    "Expérience aléatoire.md",
     "Templates",
     "Classes/Untitled",
     "Classes"
