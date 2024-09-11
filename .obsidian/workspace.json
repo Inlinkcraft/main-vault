@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GLO-2100-REV-1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GLO-2100-REV-1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GLO-2100-REV-1.md"
+                "file": "README.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GLO-2100-REV-1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,34 +173,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ce35993eb66e939",
+  "active": "558473a00c944deb",
   "lastOpenFiles": [
-    "Récursivité.md",
-    "GLO-2100-REV-1.md",
-    "Notation asymptotique.md",
     "GLO-2100.md",
+    "STT-2920-REV-1.md",
+    "GLO-2100-Labo-1.md",
+    "GLO-2100-REV-Labo-1.md",
+    "CMake.md",
+    "Flag de compilation.md",
+    "MAT-2930-REV-1.md",
+    "Vecteur.md",
+    "MAT-2930.md",
     "README.md",
+    "GLO-2100-REV-1.md",
+    "Récursivité.md",
+    "Notation asymptotique.md",
     "Opération baromètre.md",
     "Approche algorithmique.md",
     "Approche empirique.md",
-    "MAT-2930.md",
     "Calendar.md",
     "Algorithme.md",
-    "STT-2920-REV-1.md",
     "GLO-2100@ift.ulaval.ca.md",
     "Templates/Class-Template.md",
     "GEL-1000.md",
     "STT-2920-EX-1.md",
     "STT-2920.md",
-    "GLO-2100-Labo-1.md",
     "GEL-1000-EX-Socrative-1.md",
     "GEL-1000-EX-1.md",
     "Résistance électrique.md",
-    "Templates/Exercise-Template.md",
-    "Cas discret.md",
-    "Cas continue.md",
-    "Admittance.md",
-    "Circuit électrique.md",
     "Templates",
     "Classes/Untitled",
     "Classes"

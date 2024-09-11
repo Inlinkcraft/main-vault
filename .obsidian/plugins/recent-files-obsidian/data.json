@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "GLO-2100",
+      "path": "GLO-2100.md"
+    },
+    {
+      "basename": "STT-2920-REV-1",
+      "path": "STT-2920-REV-1.md"
+    },
+    {
+      "basename": "GLO-2100-Labo-1",
+      "path": "GLO-2100-Labo-1.md"
+    },
+    {
+      "basename": "GLO-2100-REV-Labo-1",
+      "path": "GLO-2100-REV-Labo-1.md"
+    },
+    {
+      "basename": "CMake",
+      "path": "CMake.md"
+    },
+    {
+      "basename": "Flag de compilation",
+      "path": "Flag de compilation.md"
+    },
+    {
+      "basename": "MAT-2930-REV-1",
+      "path": "MAT-2930-REV-1.md"
+    },
+    {
+      "basename": "Vecteur",
+      "path": "Vecteur.md"
+    },
+    {
+      "basename": "MAT-2930",
+      "path": "MAT-2930.md"
+    },
+    {
       "basename": "GLO-2100-REV-1",
       "path": "GLO-2100-REV-1.md"
     },
@@ -11,14 +51,6 @@
     {
       "basename": "Notation asymptotique",
       "path": "Notation asymptotique.md"
-    },
-    {
-      "basename": "GLO-2100",
-      "path": "GLO-2100.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Opération baromètre",
@@ -33,20 +65,12 @@
       "path": "Approche empirique.md"
     },
     {
-      "basename": "MAT-2930",
-      "path": "MAT-2930.md"
-    },
-    {
       "basename": "Calendar",
       "path": "Calendar.md"
     },
     {
       "basename": "Algorithme",
       "path": "Algorithme.md"
-    },
-    {
-      "basename": "STT-2920-REV-1",
-      "path": "STT-2920-REV-1.md"
     },
     {
       "basename": "Class-Template",
@@ -63,10 +87,6 @@
     {
       "basename": "STT-2920",
       "path": "STT-2920.md"
-    },
-    {
-      "basename": "GLO-2100-Labo-1",
-      "path": "GLO-2100-Labo-1.md"
     },
     {
       "basename": "GEL-1000-EX-Socrative-1",
@@ -179,26 +199,6 @@
     {
       "basename": "GEL-1000-TP4",
       "path": "GEL-1000-TP4.md"
-    },
-    {
-      "basename": "GEL-1000-TP3",
-      "path": "GEL-1000-TP3.md"
-    },
-    {
-      "basename": "GEL-1000-TP2",
-      "path": "GEL-1000-TP2.md"
-    },
-    {
-      "basename": "GEL-1000-TP1",
-      "path": "GEL-1000-TP1.md"
-    },
-    {
-      "basename": "GLO-2100-TP1",
-      "path": "GLO-2100-TP1.md"
-    },
-    {
-      "basename": "GLO-2100-TP3",
-      "path": "GLO-2100-TP3.md"
     }
   ],
   "omittedPaths": []
