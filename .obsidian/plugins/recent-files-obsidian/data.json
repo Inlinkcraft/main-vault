@@ -5,12 +5,76 @@
       "path": "README.md"
     },
     {
-      "basename": "GLO-2100",
-      "path": "GLO-2100.md"
+      "basename": "STT-2920-REV-3",
+      "path": "STT-2920-REV-3.md"
+    },
+    {
+      "basename": "Coefficient binomial",
+      "path": "Coefficient binomial.md"
+    },
+    {
+      "basename": "Triangle de Pascale",
+      "path": "Triangle de Pascale.md"
+    },
+    {
+      "basename": "Problèmes d'urne et boule",
+      "path": "Problèmes d'urne et boule.md"
+    },
+    {
+      "basename": "Combinaison",
+      "path": "Combinaison.md"
+    },
+    {
+      "basename": "Arrangement",
+      "path": "Arrangement.md"
+    },
+    {
+      "basename": "STT-2920-REV-2",
+      "path": "STT-2920-REV-2.md"
+    },
+    {
+      "basename": "Permutation",
+      "path": "Permutation.md"
+    },
+    {
+      "basename": "MAT-2930-REV-2",
+      "path": "MAT-2930-REV-2.md"
+    },
+    {
+      "basename": "Principe fondamental du dénombrement",
+      "path": "Principe fondamental du dénombrement.md"
+    },
+    {
+      "basename": "Partition probabilistique",
+      "path": "Partition probabilistique.md"
+    },
+    {
+      "basename": "Axiom de Kolmogorov",
+      "path": "Axiom de Kolmogorov.md"
+    },
+    {
+      "basename": "Ensemble fondamental",
+      "path": "Ensemble fondamental.md"
     },
     {
       "basename": "STT-2920-REV-1",
       "path": "STT-2920-REV-1.md"
+    },
+    {
+      "basename": "Matrice",
+      "path": "Matrice.md"
+    },
+    {
+      "basename": "Vecteur",
+      "path": "Vecteur.md"
+    },
+    {
+      "basename": "MAT-2930",
+      "path": "MAT-2930.md"
+    },
+    {
+      "basename": "GLO-2100",
+      "path": "GLO-2100.md"
     },
     {
       "basename": "GLO-2100-Labo-1",
@@ -31,14 +95,6 @@
     {
       "basename": "MAT-2930-REV-1",
       "path": "MAT-2930-REV-1.md"
-    },
-    {
-      "basename": "Vecteur",
-      "path": "Vecteur.md"
-    },
-    {
-      "basename": "MAT-2930",
-      "path": "MAT-2930.md"
     },
     {
       "basename": "GLO-2100-REV-1",
@@ -141,64 +197,8 @@
       "path": "Élément électrique.md"
     },
     {
-      "basename": "Ensemble fondamental",
-      "path": "Ensemble fondamental.md"
-    },
-    {
       "basename": "Événement",
       "path": "Événement.md"
-    },
-    {
-      "basename": "Expérience aléatoire",
-      "path": "Expérience aléatoire.md"
-    },
-    {
-      "basename": "GEL-1000-REV-1",
-      "path": "GEL-1000-REV-1.md"
-    },
-    {
-      "basename": "Impédance",
-      "path": "Impédance.md"
-    },
-    {
-      "basename": "Inductance électrique",
-      "path": "Inductance électrique.md"
-    },
-    {
-      "basename": "Isolants électrique",
-      "path": "Isolants électrique.md"
-    },
-    {
-      "basename": "MAT-2930-TP5",
-      "path": "MAT-2930-TP5.md"
-    },
-    {
-      "basename": "Modélisation",
-      "path": "Modélisation.md"
-    },
-    {
-      "basename": "Puissance électrique",
-      "path": "Puissance électrique.md"
-    },
-    {
-      "basename": "Résistivité",
-      "path": "Résistivité.md"
-    },
-    {
-      "basename": "Tension électrique",
-      "path": "Tension électrique.md"
-    },
-    {
-      "basename": "Revision-Template",
-      "path": "Templates/Revision-Template.md"
-    },
-    {
-      "basename": "GEL-1000-TP5",
-      "path": "GEL-1000-TP5.md"
-    },
-    {
-      "basename": "GEL-1000-TP4",
-      "path": "GEL-1000-TP4.md"
     }
   ],
   "omittedPaths": []

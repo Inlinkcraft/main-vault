@@ -57,4 +57,27 @@ $$||\vec{u}|| = \sqrt{\vec{u} \cdot \vec{u}}$$
 
 > [!Info] Inégalité du triangle
 > Le plus long que l'addition de deux vecteur peut être ces quand il on le même sens
-> $$||\vec{u} + \vec{v}|| = ||\vec{u}|| + ||\vec{v}||$$
+> $$||\vec{u} + \vec{v}|| \le ||\vec{u}|| + ||\vec{v}||$$
+
+
+### Propriété des vecteur
+---
+#### Vecteur unitaire
+Vecteur avec une longueur égale à 1:
+$$\vec{u_\vec{v}} = \frac{\vec{v}}{||\vec{v}||}$$
+
+#### Distance entre deux vecteur
+La distance entre les extrémité des vecteur:
+$$d(\vec{u}, \vec{v}) = ||\vec{u} - \vec{v}||$$
+
+#### Angle entre deux vecteur
+L'angle entre les deux vecteur:
+$$\cos\theta = \frac{\vec{u} \cdot \vec{v}}{||\vec{u}|| \ ||\vec{v}||}$$
+
+#### Vecteur orthogonaux
+Vecteur avec un angle de $90\degree$ entre les deux:
+$$0 = \vec{u} \cdot \vec{v}$$
+
+#### Projection d'un vecteur
+Le vecteur est projeter sur l'autre:
+$$\text{proj}_\vec{u}\vec{v} = \left(\frac{\vec{u} \cdot \vec{v}}{\vec{u} \cdot \vec{u}} \right) \vec{u}$$
