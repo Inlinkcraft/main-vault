@@ -29,4 +29,4 @@ calendar:
       type: daily
 ---
 
-[[GEL-1000-EX-Socrative-1]]
+[[GEL-1000]]

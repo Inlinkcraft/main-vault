@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEL-1000-EX-Socrative-1.md",
-                "mode": "source",
+                "file": "GEL-1000-REV-1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -26,13 +26,13 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "da2b275a878ae4f5",
+    "id": "6d07b70185ec4415",
     "type": "mobile-drawer",
     "children": [],
     "currentTab": 0
   },
   "right": {
-    "id": "d7f6fb1f38e6b66f",
+    "id": "31700140ffee1914",
     "type": "mobile-drawer",
     "children": [],
     "currentTab": 0
@@ -51,11 +51,12 @@
   },
   "active": "cd71439d4bdeef2e",
   "lastOpenFiles": [
-    "Calendar.md",
-    "GEL-1000-EX-1.md",
+    "Circuit électrique.md",
     "GEL-1000-REV-1.md",
-    "Tension électrique.md",
     "GEL-1000.md",
-    "GEL-1000-EX-Socrative-1.md"
+    "Calendar.md",
+    "GEL-1000-EX-Socrative-1.md",
+    "GEL-1000-EX-1.md",
+    "Tension électrique.md"
   ]
 }
