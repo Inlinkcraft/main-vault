@@ -2,8 +2,9 @@
 name: Condensateur électrique
 type: Matière
 ---
-Objet ou [[Composante électrique|composante]] qui emmagasine l'énergie ou la restitue.
+#GEL-1000 
 
+Objet ou [[Composante électrique|composante]] qui emmagasine l'énergie ou la restitue.
 ## Caractéristique du condensateur
 ---
 #### Symbole:
@@ -38,3 +39,14 @@ $$p = v \cdot i$$
 Le travail d'un condensateur peut ce calculer comme suit:
 $$w=\frac{1}{2}Cv^2$$
 ^GEL-1000-EQ
+
+## Équivalent et diviseur
+---
+### Équivalent série
+$$\frac{1}{C_{eqs}} = \sum_{k=1}^{n}\frac{1}{C_k}$$
+### Diviseur de tension
+$$V_{k}= \frac{C_{eqs}}{C_{k}}V_s$$
+### Équivalent parallèle
+$$C_{eqs} = \sum_{k=1}^{n}{C_k}$$
+### Diviseur de courant
+$$I_{k}= \frac{C_{k}}{C_{eqp}}I_{s}$$

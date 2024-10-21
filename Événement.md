@@ -2,6 +2,8 @@
 nom: Événement
 type: Matière
 ---
+#STT-2920
+
 Un événement est une particularité attribuable aux élément de l'[[Ensemble fondamental|ensemble fondamental]]. Ces élément peuvent être regrouper en sous-ensemble.
 
 >[!Info] Annotation

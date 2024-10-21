@@ -2,5 +2,7 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "showLineNumber": false,
-  "useTab": false
+  "useTab": false,
+  "showRibbon": false,
+  "alwaysUpdateLinks": true
 }

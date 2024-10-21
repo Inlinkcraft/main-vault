@@ -2,6 +2,8 @@
 name: Inductance électrique
 type: Matière
 ---
+#GEL-1000 
+
 Objet ou [[Composante électrique|composante]] s'oppose au changement de courant.
 
 ## Caractéristique de l'inductance
@@ -38,3 +40,14 @@ $$p = v \cdot i$$
 Le travail d'un inductance peut ce calculer comme suit:
 $$w=\frac{1}{2}L \, i^2$$
 ^GEL-1000-EQ
+
+## Équivalent et diviseur
+---
+### Équivalent série
+$$L_{eqs} = \sum_{k = 0}^{n}L_{k}$$
+### Diviseur de tension
+$$V_{k}= \frac{L_{k}}{L_{eqs}}V_s$$
+### Équivalent parallèle
+$$\frac{1}{L_{eqp}} = \sum_{k = 0}^{n}\frac{1}{L_{k}}$$
+### Diviseur de courant
+$$I_{k}= \frac{L_{eqp}}{L_{k}}I_s$$

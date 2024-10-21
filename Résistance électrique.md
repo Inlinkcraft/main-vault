@@ -2,6 +2,8 @@
 name: Résistance électrique
 type: Matière
 ---
+#GEL-1000 
+
 Objet ou [[Composante électrique|composante]] qui oppose le déplacement des électron, **aka** la [[Résistivité|résistivité]].
 
 ## Caractéristique de la résistance
@@ -38,3 +40,14 @@ $$p = v \cdot i \qquad p = \frac{v^{2}}{R} \qquad p = Ri^2$$
 Le travail d'une resistance peut ce calculer comme suit:
 $$w=\int_{-\infty}^{t}p \ dt$$
 ^GEL-1000-EQ
+
+## Équivalent et diviseur
+---
+### Équivalent série
+$$R_{eqs} = R_{1} + R_{2} + \dots + R_{n}$$
+### Diviseur de tension
+$$V_{k}= \frac{R_{k}}{R_{eqs}}V_s$$
+### Équivalent parallèle
+$$\frac{1}{R_{eqp}} = \frac{1}{R_{1}} + \frac{1}{R_{2}} + \dots + \frac{1}{R_{n}}$$
+### Diviseur de courant
+$$I_{k}= \frac{R_{eqp}}{R_{k}}I_s$$

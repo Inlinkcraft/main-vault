@@ -2,6 +2,8 @@
 name: Puissance électrique
 type: Matière
 ---
+#GEL-1000 
+
 La puissance est la variation de l'énergie dans le temps
 
 ## Définition mathématique
@@ -26,3 +28,12 @@ $$p=\frac{dw}{dt}$$
 >[!Info] Règle d'or
 >Si le [[Courant électrique|courant]] entre dans le négatif, la [[Composante électrique|composante]] fournie
 >Si le [[Courant électrique|courant]] entre dans le positif, la [[Composante électrique|composante]] absorbe
+
+### Puissance maximal
+---
+La [[Puissance électrique|puissance maximal]] d'un équivalent est obtenue lorsque $R_{eq} = R_{ch}$. Lorsque cela est le cas:
+$$P_{max} = \frac{V_{T}^{2}}{4R_{T}} \qquad P_{max} = \frac{R_{N}I_{N}^{2}}{4}$$
+
+#### Rendement
+Le rendement donne une idée de l'éfficacité de l'équivalent:
+$$\mathcal{r} = \frac{P_\text{entré}}{P_\text{sortie}}$$

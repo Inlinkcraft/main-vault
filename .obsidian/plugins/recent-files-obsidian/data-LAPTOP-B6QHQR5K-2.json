@@ -1,0 +1,205 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-5",
+      "path": "GEL-1000-REV-Labo-5.md"
+    },
+    {
+      "basename": "GEL-1000-REV-5",
+      "path": "GEL-1000-REV-5.md"
+    },
+    {
+      "basename": "Règle de Cramer",
+      "path": "Règle de Cramer.md"
+    },
+    {
+      "basename": "Amplificateur opérationnel",
+      "path": "Amplificateur opérationnel.md"
+    },
+    {
+      "basename": "Amplificateur inverseur",
+      "path": "Amplificateur inverseur.md"
+    },
+    {
+      "basename": "Amplificateur non-inverseur",
+      "path": "Amplificateur non-inverseur.md"
+    },
+    {
+      "basename": "Amplificateur de sommation",
+      "path": "Amplificateur de sommation.md"
+    },
+    {
+      "basename": "Amplificateur différence",
+      "path": "Amplificateur différence.md"
+    },
+    {
+      "basename": "Amplificateur en cascade",
+      "path": "Amplificateur en cascade.md"
+    },
+    {
+      "basename": "Amplificateur dérivateur",
+      "path": "Amplificateur dérivateur.md"
+    },
+    {
+      "basename": "Amplificateur intégrateur",
+      "path": "Amplificateur intégrateur.md"
+    },
+    {
+      "basename": "Super-maille",
+      "path": "Super-maille.md"
+    },
+    {
+      "basename": "Super-nœud",
+      "path": "Super-nœud.md"
+    },
+    {
+      "basename": "Équation d'équilibre pour source commandé",
+      "path": "Équation d'équilibre pour source commandé.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-4",
+      "path": "GEL-1000-REV-Labo-4.md"
+    },
+    {
+      "basename": "Méthode des maille",
+      "path": "Méthode des maille.md"
+    },
+    {
+      "basename": "GEL-1000-REV-4",
+      "path": "GEL-1000-REV-4.md"
+    },
+    {
+      "basename": "Méthode des nœud",
+      "path": "Méthode des nœud.md"
+    },
+    {
+      "basename": "Méthode direct de résolution de circuit",
+      "path": "Méthode direct de résolution de circuit.md"
+    },
+    {
+      "basename": "MatLab",
+      "path": "MatLab.md"
+    },
+    {
+      "basename": "Courant circulatoire",
+      "path": "Courant circulatoire.md"
+    },
+    {
+      "basename": "GEL-1000-REV-3",
+      "path": "GEL-1000-REV-3.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-3",
+      "path": "GEL-1000-REV-Labo-3.md"
+    },
+    {
+      "basename": "Matrice",
+      "path": "Matrice.md"
+    },
+    {
+      "basename": "Tension nodale",
+      "path": "Tension nodale.md"
+    },
+    {
+      "basename": "GLO-2100",
+      "path": "GLO-2100.md"
+    },
+    {
+      "basename": "Lois de Kirchhoff",
+      "path": "Lois de Kirchhoff.md"
+    },
+    {
+      "basename": "GEL-1000",
+      "path": "GEL-1000.md"
+    },
+    {
+      "basename": "Circuit de base",
+      "path": "Circuit de base.md"
+    },
+    {
+      "basename": "STT-2920-REV-Labo-1",
+      "path": "STT-2920-REV-Labo-1.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-2",
+      "path": "GEL-1000-REV-Labo-2.md"
+    },
+    {
+      "basename": "CMake",
+      "path": "CMake.md"
+    },
+    {
+      "basename": "Memory leak",
+      "path": "Memory leak.md"
+    },
+    {
+      "basename": "STT-2920",
+      "path": "STT-2920.md"
+    },
+    {
+      "basename": "STT-2920-REV-4",
+      "path": "STT-2920-REV-4.md"
+    },
+    {
+      "basename": "Probabilité conditionnel",
+      "path": "Probabilité conditionnel.md"
+    },
+    {
+      "basename": "Formule de Stirling",
+      "path": "Formule de Stirling.md"
+    },
+    {
+      "basename": "Coefficient binomial",
+      "path": "Coefficient binomial.md"
+    },
+    {
+      "basename": "STT-2920-REV-3",
+      "path": "STT-2920-REV-3.md"
+    },
+    {
+      "basename": "Triangle de Pascale",
+      "path": "Triangle de Pascale.md"
+    },
+    {
+      "basename": "Problèmes d'urne et boule",
+      "path": "Problèmes d'urne et boule.md"
+    },
+    {
+      "basename": "Principe fondamental du dénombrement",
+      "path": "Principe fondamental du dénombrement.md"
+    },
+    {
+      "basename": "Combinaison",
+      "path": "Combinaison.md"
+    },
+    {
+      "basename": "Arrangement",
+      "path": "Arrangement.md"
+    },
+    {
+      "basename": "STT-2920-REV-2",
+      "path": "STT-2920-REV-2.md"
+    },
+    {
+      "basename": "Permutation",
+      "path": "Permutation.md"
+    },
+    {
+      "basename": "Ensemble fondamental",
+      "path": "Ensemble fondamental.md"
+    },
+    {
+      "basename": "Partition probabilistique",
+      "path": "Partition probabilistique.md"
+    },
+    {
+      "basename": "STT-2920-REV-1",
+      "path": "STT-2920-REV-1.md"
+    }
+  ],
+  "omittedPaths": []
+}

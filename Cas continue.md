@@ -2,6 +2,8 @@
 name: Cas continue
 type: Matière
 ---
+#STT-2920 
+
 Le cas continue est un cas particulier d'une probabilité d'un [[Ensemble fondamental|ensemble fondamental]] continue et uniform
 
 ## Probabilité d'un événement

@@ -2,6 +2,8 @@
 name: Impédance
 type: Matière
 ---
+#GEL-1000 
+
 L'[[Impédance|impédance]] est une [[Modélisation|modelisation]] plus approprier d'une [[Composante électrique|composante]] qui met en relation l'exitation et la réponse.
 
 ## Modèle mathématique

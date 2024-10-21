@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEL-1000-REV-1.md",
+                "file": "GEL-1000-REV-Labo-6.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": true
-              }
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GEL-1000-REV-Labo-6"
             }
           }
         ]
@@ -26,20 +28,128 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d07b70185ec4415",
+    "id": "9eb58138e4b88849",
     "type": "mobile-drawer",
-    "children": [],
+    "children": [
+      {
+        "id": "a1a381924d90537a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ae5c65613f37bd06",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "45a49753659d3451",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2986905468b9c45a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "a6352a8594ad474c",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      }
+    ],
     "currentTab": 0
   },
   "right": {
-    "id": "31700140ffee1914",
+    "id": "fd49df9c7374986c",
     "type": "mobile-drawer",
-    "children": [],
+    "children": [
+      {
+        "id": "59f25b0574747849",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "GEL-1000-REV-Labo-6.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9005134e89c2f85e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "GEL-1000-REV-Labo-6.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3098539605242663",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "GEL-1000-REV-Labo-6.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -51,8 +161,9 @@
   },
   "active": "cd71439d4bdeef2e",
   "lastOpenFiles": [
-    "Circuit électrique.md",
+    "README.md",
     "GEL-1000-REV-1.md",
+    "Circuit électrique.md",
     "GEL-1000.md",
     "Calendar.md",
     "GEL-1000-EX-Socrative-1.md",

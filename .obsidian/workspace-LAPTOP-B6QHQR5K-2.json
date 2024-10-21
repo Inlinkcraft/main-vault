@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "e21f0780745b5c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae91ee79f87f66c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd71439d4bdeef2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71060ff219542ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "809d774bcf2f32c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87755d2fe7ed8bc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd1da3870073bfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ee0977503a3f10ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0467cf2d397d059b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d1fdf049e027b6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "3bb0178be2311b33",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "cd71439d4bdeef2e",
+  "lastOpenFiles": [
+    "GEL-1000-REV-Labo-5.md",
+    "README.md",
+    "GEL-1000-REV-5.md",
+    "Règle de Cramer.md",
+    "Amplificateur opérationnel.md",
+    "Amplificateur inverseur.md",
+    "Amplificateur non-inverseur.md",
+    "Amplificateur de sommation.md",
+    "Amplificateur différence.md",
+    "Amplificateur en cascade.md",
+    "Amplificateur dérivateur.md",
+    "Amplificateur intégrateur.md",
+    "Super-maille.md",
+    "Super-nœud.md",
+    "Équation d'équilibre pour source commandé.md",
+    "GEL-1000-REV-Labo-4.md",
+    "Méthode des maille.md",
+    "GEL-1000-REV-4.md",
+    "Méthode des nœud.md",
+    "Méthode direct de résolution de circuit.md",
+    "MatLab.md",
+    "Courant circulatoire.md",
+    "GEL-1000-REV-3.md",
+    "GEL-1000-REV-Labo-3.md",
+    "Matrice.md",
+    "Tension nodale.md",
+    "Transformation delta-Y",
+    "Templates",
+    "Classes/Untitled",
+    "Classes"
+  ]
+}

@@ -2,6 +2,8 @@
 nom: Ensemble fondamental
 type: Matière
 ---
+#STT-2920
+
 Ensemble fondamental est un ensemble qui regroupe tous les résultat possible d'une [[Expérience aléatoire|experience aléatoire]].
 
 ## Annotation

@@ -1,196 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "STT-2920-EX-1",
-      "path": "STT-2920-EX-1.md"
+      "basename": "GEL-1000-REV-Labo-6",
+      "path": "GEL-1000-REV-Labo-6.md"
     },
     {
-      "basename": "STT-2920",
-      "path": "STT-2920.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "GLO-2100",
-      "path": "GLO-2100.md"
+      "basename": "Vecteur aléatoire",
+      "path": "Vecteur aléatoire.md"
     },
     {
-      "basename": "MAT-2930",
-      "path": "MAT-2930.md"
+      "basename": "Variance",
+      "path": "Variance.md"
     },
     {
-      "basename": "Calendar",
-      "path": "Calendar.md"
+      "basename": "Variable aléatoire discrète",
+      "path": "Variable aléatoire discrète.md"
     },
     {
-      "basename": "GLO-2100-Labo-1",
-      "path": "GLO-2100-Labo-1.md"
+      "basename": "Variable aléatoire continue",
+      "path": "Variable aléatoire continue.md"
     },
     {
-      "basename": "GEL-1000",
-      "path": "GEL-1000.md"
+      "basename": "Triangle de Pascale",
+      "path": "Triangle de Pascale.md"
     },
     {
-      "basename": "GEL-1000-EX-Socrative-1",
-      "path": "GEL-1000-EX-Socrative-1.md"
+      "basename": "Théorème de Bayes",
+      "path": "Théorème de Bayes.md"
     },
     {
-      "basename": "GEL-1000-EX-1",
-      "path": "GEL-1000-EX-1.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Exercise-Template",
-      "path": "Templates/Exercise-Template.md"
+      "basename": "STT-2920-REV-2",
+      "path": "STT-2920-REV-2.md"
     },
     {
       "basename": "STT-2920-REV-1",
       "path": "STT-2920-REV-1.md"
     },
     {
-      "basename": "Cas discret",
-      "path": "Cas discret.md"
+      "basename": "STT-2920",
+      "path": "STT-2920.md"
     },
     {
-      "basename": "Cas continue",
-      "path": "Cas continue.md"
+      "basename": "Problèmes d'urne et boule",
+      "path": "Problèmes d'urne et boule.md"
     },
     {
-      "basename": "Admittance",
-      "path": "Admittance.md"
+      "basename": "Probabilité conditionnel",
+      "path": "Probabilité conditionnel.md"
     },
     {
-      "basename": "Circuit électrique",
-      "path": "Circuit électrique.md"
+      "basename": "Principe fondamental du dénombrement",
+      "path": "Principe fondamental du dénombrement.md"
     },
     {
-      "basename": "Composante électrique",
-      "path": "Composante électrique.md"
+      "basename": "Permutation",
+      "path": "Permutation.md"
     },
     {
-      "basename": "Condensateur électrique",
-      "path": "Condensateur électrique.md"
+      "basename": "Partition probabilistique",
+      "path": "Partition probabilistique.md"
     },
     {
-      "basename": "Conducteur électrique",
-      "path": "Conducteur électrique.md"
+      "basename": "Lois marginales",
+      "path": "Lois marginales.md"
     },
     {
-      "basename": "Courant électrique",
-      "path": "Courant électrique.md"
+      "basename": "Lois des probabilité total",
+      "path": "Lois des probabilité total.md"
     },
     {
-      "basename": "Élément électrique",
-      "path": "Élément électrique.md"
+      "basename": "Lois de probabilité",
+      "path": "Lois de probabilité.md"
     },
     {
-      "basename": "Ensemble fondamental",
-      "path": "Ensemble fondamental.md"
+      "basename": "Loi uniforme discrète",
+      "path": "Loi uniforme discrète.md"
     },
     {
-      "basename": "Événement",
-      "path": "Événement.md"
+      "basename": "Loi uniforme continue",
+      "path": "Loi uniforme continue.md"
+    },
+    {
+      "basename": "Loi géométrique",
+      "path": "Loi géométrique.md"
+    },
+    {
+      "basename": "Loi exponentielle",
+      "path": "Loi exponentielle.md"
+    },
+    {
+      "basename": "Loi de Poisson",
+      "path": "Loi de Poisson.md"
+    },
+    {
+      "basename": "Loi de Bernoulli",
+      "path": "Loi de Bernoulli.md"
+    },
+    {
+      "basename": "Loi binomiale négative",
+      "path": "Loi binomiale négative.md"
+    },
+    {
+      "basename": "Loi binomiale",
+      "path": "Loi binomiale.md"
+    },
+    {
+      "basename": "Indépendance probabiliste",
+      "path": "Indépendance probabiliste.md"
+    },
+    {
+      "basename": "Formule de Stirling",
+      "path": "Formule de Stirling.md"
+    },
+    {
+      "basename": "Fonction de répartition",
+      "path": "Fonction de répartition.md"
+    },
+    {
+      "basename": "Fonction de masse",
+      "path": "Fonction de masse.md"
+    },
+    {
+      "basename": "Fonction de densité",
+      "path": "Fonction de densité.md"
+    },
+    {
+      "basename": "Fiabilité des réseau",
+      "path": "Fiabilité des réseau.md"
     },
     {
       "basename": "Expérience aléatoire",
       "path": "Expérience aléatoire.md"
     },
     {
-      "basename": "GEL-1000-REV-1",
-      "path": "GEL-1000-REV-1.md"
+      "basename": "Événement",
+      "path": "Événement.md"
     },
     {
-      "basename": "Impédance",
-      "path": "Impédance.md"
+      "basename": "Espérance",
+      "path": "Espérance.md"
     },
     {
-      "basename": "Inductance électrique",
-      "path": "Inductance électrique.md"
+      "basename": "Ensemble fondamental",
+      "path": "Ensemble fondamental.md"
     },
     {
-      "basename": "Isolants électrique",
-      "path": "Isolants électrique.md"
+      "basename": "Combinaison",
+      "path": "Combinaison.md"
     },
     {
-      "basename": "MAT-2930-TP5",
-      "path": "MAT-2930-TP5.md"
+      "basename": "Coefficient binomial",
+      "path": "Coefficient binomial.md"
     },
     {
-      "basename": "Modélisation",
-      "path": "Modélisation.md"
+      "basename": "Cas continue",
+      "path": "Cas continue.md"
     },
     {
-      "basename": "Puissance électrique",
-      "path": "Puissance électrique.md"
+      "basename": "Calcule par conditionnement",
+      "path": "Calcule par conditionnement.md"
     },
     {
-      "basename": "Résistivité",
-      "path": "Résistivité.md"
+      "basename": "Axiom de Kolmogorov",
+      "path": "Axiom de Kolmogorov.md"
     },
     {
-      "basename": "Tension électrique",
-      "path": "Tension électrique.md"
+      "basename": "Arrangement",
+      "path": "Arrangement.md"
     },
     {
-      "basename": "Class-Template",
-      "path": "Templates/Class-Template.md"
+      "basename": "STT-2920-REV-Labo-5",
+      "path": "STT-2920-REV-Labo-5.md"
     },
     {
-      "basename": "Revision-Template",
-      "path": "Templates/Revision-Template.md"
+      "basename": "STT-2920-REV-Labo-4",
+      "path": "STT-2920-REV-Labo-4.md"
     },
     {
-      "basename": "GEL-1000-TP5",
-      "path": "GEL-1000-TP5.md"
+      "basename": "STT-2920-REV-12",
+      "path": "STT-2920-REV-12.md"
     },
     {
-      "basename": "GEL-1000-TP4",
-      "path": "GEL-1000-TP4.md"
+      "basename": "STT-2920-REV-11",
+      "path": "STT-2920-REV-11.md"
     },
     {
-      "basename": "GEL-1000-TP3",
-      "path": "GEL-1000-TP3.md"
+      "basename": "STT-2920-REV-Labo-3",
+      "path": "STT-2920-REV-Labo-3.md"
     },
     {
-      "basename": "GEL-1000-TP2",
-      "path": "GEL-1000-TP2.md"
+      "basename": "STT-2920-REV-10",
+      "path": "STT-2920-REV-10.md"
     },
     {
-      "basename": "GEL-1000-TP1",
-      "path": "GEL-1000-TP1.md"
-    },
-    {
-      "basename": "GLO-2100-TP1",
-      "path": "GLO-2100-TP1.md"
-    },
-    {
-      "basename": "GLO-2100-TP3",
-      "path": "GLO-2100-TP3.md"
-    },
-    {
-      "basename": "GLO-2100-TP2",
-      "path": "GLO-2100-TP2.md"
-    },
-    {
-      "basename": "MAT-2930-TP1",
-      "path": "MAT-2930-TP1.md"
-    },
-    {
-      "basename": "Travail-Template",
-      "path": "Templates/Travail-Template.md"
-    },
-    {
-      "basename": "MAT-2930-TP4",
-      "path": "MAT-2930-TP4.md"
-    },
-    {
-      "basename": "MAT-2930-TP3",
-      "path": "MAT-2930-TP3.md"
-    },
-    {
-      "basename": "MAT-2930-TP2",
-      "path": "MAT-2930-TP2.md"
+      "basename": "Variable aléatoire",
+      "path": "Variable aléatoire.md"
     }
   ],
   "omittedPaths": []

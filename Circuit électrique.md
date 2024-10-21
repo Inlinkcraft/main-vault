@@ -2,6 +2,8 @@
 name: Circuit électrique
 type: Matière
 ---
+#GEL-1000 
+
 Un [[Circuit électrique|circuits]] est une interconnection de différent [[Élément électrique|éléments électriques]] dans le but d'accomplir une fonction précise. Un circuit est une [[Modélisation|modélisation]] de différent [[Élément électrique|élément électrique]] pour ainsi évaluer sont comportement théorique.
 
 ### Topologie

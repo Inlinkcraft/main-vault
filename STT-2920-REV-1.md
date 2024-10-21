@@ -4,6 +4,8 @@ type: Revision
 class: STT-2920
 date: 2024-09-04
 ---
+#STT-2920
+
 # Plan de cours
 - Dépannage sont à la deuxième heure du cours du lundi (sauf dans certain cas)
 - Centre d'aide pour les exercise est accessible avec une priorité pour les statistique

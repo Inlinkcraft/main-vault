@@ -2,6 +2,8 @@
 name: Courant électrique
 type: Matière
 ---
+#GEL-1000 
+
 Le courant électrique est Le mouvement naturelle des [[Électron|électron]] dans un [[Conducteur électrique|conducteur]]. Le sens réel de déplacement des électron des inverse au sens du courant.
 
 ## Définition mathématique
