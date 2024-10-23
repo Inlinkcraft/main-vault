@@ -194,3 +194,15 @@ i_{L}(t)&=& \frac{-3}{140}e^{{\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\fra
 i_{L}(t)&=& \frac{-3}{140}e^{{\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\frac{1}{R_{1}} + \frac{1}{R_{2}})}t}} + \frac{3}{140}& \\
 \end{array}
 $$
+
+###### Suite TP2
+$$
+\begin{array}{rcll}
+V_{s1} &=& 12 u(t) &\\
+V_{s2} &=& 3 \delta(t-1\times 10 ^{-3}) &\\
+V_{s1} \to V_{s2} &=& \frac{\frac{dV_{s1}}{{dt}}}{4} & \text{Donc :}\\
+V_{L} &=& \frac{1}{4}\frac{d}{dt}\left((\frac{156}{17})e^{\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\frac{1}{R_{1}} + \frac{1}{R_{2}})}(t)} \right)&\\
+V_{L} &=& (\frac{1}{4}\frac{156}{17})\left(e^{\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\frac{1}{R_{1}} + \frac{1}{R_{2}})}(t)} \cdot {\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\frac{1}{R_{1}} + \frac{1}{R_{2}})}}\right)&\\
+V_{L} &=& (\frac{156}{68})e^{\frac{- (\frac{1}{L_{1}} + \frac{1}{L_{2}})}{(\frac{1}{R_{1}} + \frac{1}{R_{2}})}(t)} \cdot {\frac{- 156(\frac{1}{L_{1}} + \frac{1}{L_{2}})}{68(\frac{1}{R_{1}} + \frac{1}{R_{2}})}}&\\
+\end{array}
+$$

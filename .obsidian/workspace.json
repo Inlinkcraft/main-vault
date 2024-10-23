@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae91ee79f87f66c3",
+        "id": "1802441e169174ba",
         "type": "tabs",
+        "dimension": 54.19229524117838,
         "children": [
           {
-            "id": "cd71439d4bdeef2e",
+            "id": "3ce35993eb66e939",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,7 +19,29 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "b5b4560f3aef167d"
+          }
+        ]
+      },
+      {
+        "id": "2bca1b2bf99723cb",
+        "type": "tabs",
+        "dimension": 45.80770475882163,
+        "children": [
+          {
+            "id": "558473a00c944deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEL-1000-REV-Labo-6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            },
+            "group": "b5b4560f3aef167d"
           }
         ]
       }
@@ -87,15 +110,127 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 248.5
   },
   "right": {
     "id": "3bb0178be2311b33",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "1e27d74710652435",
+        "type": "tabs",
+        "dimension": 22.285714285714285,
+        "children": [
+          {
+            "id": "bb40b506f7532bf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GEL-1000-REV-Labo-6.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d3c6fbc5092c6c9",
+        "type": "tabs",
+        "dimension": 44.285714285714285,
+        "children": [
+          {
+            "id": "bbb6c5b44ef36c6d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "GEL-1000-REV-Labo-6.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#GEL-1000  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 0
+                      }
+                    },
+                    {
+                      "query": "tag:#GLO-2100  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 3223295
+                      }
+                    },
+                    {
+                      "query": "tag:#MAT-2930  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "tag:#STT-2920  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13432831
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a05b681345bc3145",
+        "type": "tabs",
+        "dimension": 33.42857142857143,
+        "children": [
+          {
+            "id": "4d010a3fa5074fdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GEL-1000-REV-Labo-6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 504
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -109,9 +244,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cd71439d4bdeef2e",
+  "active": "3ce35993eb66e939",
   "lastOpenFiles": [
     "README.md",
+    "GEL-1000-REV-Labo-6.md",
+    "personal",
     "Vecteur aléatoire.md",
     "Variance.md",
     "Variable aléatoire discrète.md",
@@ -136,7 +273,6 @@
     "Loi de Poisson.md",
     "Loi de Bernoulli.md",
     "Loi binomiale négative.md",
-    "Loi binomiale.md",
     "Transformation delta-Y",
     "Templates",
     "Classes/Untitled",
