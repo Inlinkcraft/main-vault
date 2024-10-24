@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "MAT-2930-REV-9",
+      "path": "MAT-2930-REV-9.md"
+    },
+    {
+      "basename": "MAT-2930-REV-8",
+      "path": "MAT-2930-REV-8.md"
+    },
+    {
+      "basename": "MAT-2930-REV-Labo-4",
+      "path": "MAT-2930-REV-Labo-4.md"
+    },
+    {
+      "basename": "MAT-2930-REV-Labo-3",
+      "path": "MAT-2930-REV-Labo-3.md"
+    },
+    {
+      "basename": "Factorisation PTLU",
+      "path": "Factorisation PTLU.md"
+    },
+    {
+      "basename": "Matrice",
+      "path": "Matrice.md"
+    },
+    {
+      "basename": "Vecteur",
+      "path": "Vecteur.md"
+    },
+    {
+      "basename": "MAT-2930-REV-7",
+      "path": "MAT-2930-REV-7.md"
+    },
+    {
+      "basename": "MAT-2930-REV-6",
+      "path": "MAT-2930-REV-6.md"
+    },
+    {
+      "basename": "Algorithme de Gauss-Jordan",
+      "path": "Algorithme de Gauss-Jordan.md"
+    },
+    {
+      "basename": "Matrice inverse",
+      "path": "Matrice inverse.md"
+    },
+    {
+      "basename": "Matrice singulaire",
+      "path": "Matrice singulaire.md"
+    },
+    {
+      "basename": "MAT-2930-REV-Labo-2",
+      "path": "MAT-2930-REV-Labo-2.md"
+    },
+    {
+      "basename": "Méthode itérative",
+      "path": "Méthode itérative.md"
+    },
+    {
+      "basename": "Indépendance linéaire",
+      "path": "Indépendance linéaire.md"
+    },
+    {
+      "basename": "MAT-2930-REV-5",
+      "path": "MAT-2930-REV-5.md"
+    },
+    {
+      "basename": "Système homogène",
+      "path": "Système homogène.md"
+    },
+    {
+      "basename": "Characterisation d'un système linéaire infinie",
+      "path": "Characterisation d'un système linéaire infinie.md"
+    },
+    {
+      "basename": "Calcule par conditionnement",
+      "path": "Calcule par conditionnement.md"
+    },
+    {
+      "basename": "MAT-2930-REV-4",
+      "path": "MAT-2930-REV-4.md"
+    },
+    {
+      "basename": "MAT-2930",
+      "path": "MAT-2930.md"
+    },
+    {
       "basename": "GEL-1000-REV-Labo-6",
       "path": "GEL-1000-REV-Labo-6.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Formule de Stirling",
       "path": "Formule de Stirling.md"
-    },
-    {
-      "basename": "Fonction de répartition",
-      "path": "Fonction de répartition.md"
-    },
-    {
-      "basename": "Fonction de masse",
-      "path": "Fonction de masse.md"
-    },
-    {
-      "basename": "Fonction de densité",
-      "path": "Fonction de densité.md"
-    },
-    {
-      "basename": "Fiabilité des réseau",
-      "path": "Fiabilité des réseau.md"
-    },
-    {
-      "basename": "Expérience aléatoire",
-      "path": "Expérience aléatoire.md"
-    },
-    {
-      "basename": "Événement",
-      "path": "Événement.md"
-    },
-    {
-      "basename": "Espérance",
-      "path": "Espérance.md"
-    },
-    {
-      "basename": "Ensemble fondamental",
-      "path": "Ensemble fondamental.md"
-    },
-    {
-      "basename": "Combinaison",
-      "path": "Combinaison.md"
-    },
-    {
-      "basename": "Coefficient binomial",
-      "path": "Coefficient binomial.md"
-    },
-    {
-      "basename": "Cas continue",
-      "path": "Cas continue.md"
-    },
-    {
-      "basename": "Calcule par conditionnement",
-      "path": "Calcule par conditionnement.md"
-    },
-    {
-      "basename": "Axiom de Kolmogorov",
-      "path": "Axiom de Kolmogorov.md"
-    },
-    {
-      "basename": "Arrangement",
-      "path": "Arrangement.md"
-    },
-    {
-      "basename": "STT-2920-REV-Labo-5",
-      "path": "STT-2920-REV-Labo-5.md"
-    },
-    {
-      "basename": "STT-2920-REV-Labo-4",
-      "path": "STT-2920-REV-Labo-4.md"
-    },
-    {
-      "basename": "STT-2920-REV-12",
-      "path": "STT-2920-REV-12.md"
-    },
-    {
-      "basename": "STT-2920-REV-11",
-      "path": "STT-2920-REV-11.md"
-    },
-    {
-      "basename": "STT-2920-REV-Labo-3",
-      "path": "STT-2920-REV-Labo-3.md"
-    },
-    {
-      "basename": "STT-2920-REV-10",
-      "path": "STT-2920-REV-10.md"
-    },
-    {
-      "basename": "Variable aléatoire",
-      "path": "Variable aléatoire.md"
     }
   ],
   "omittedPaths": []

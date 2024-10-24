@@ -14,11 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEL-1000-REV-Labo-6.md",
-                "mode": "preview",
+                "file": "MAT-2930-REV-9.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MAT-2930-REV-9"
             },
             "group": "b5b4560f3aef167d"
           }
@@ -35,11 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEL-1000-REV-Labo-6.md",
+                "file": "MAT-2930-REV-9.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MAT-2930-REV-9"
             },
             "group": "b5b4560f3aef167d"
           }
@@ -63,7 +67,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +80,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -89,7 +97,19 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f52b3bb884f2f24d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -103,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -127,8 +149,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEL-1000-REV-Labo-6.md"
-              }
+                "file": "MAT-2930-REV-9.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MAT-2930-REV-9"
+            }
+          },
+          {
+            "id": "23df578ddfa585ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAT-2930-REV-9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MAT-2930-REV-9"
             }
           }
         ]
@@ -144,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GEL-1000-REV-Labo-6.md",
+                "file": "MAT-2930-REV-9.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,10 +234,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224423,
+                  "scale": 1.000000000000001,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of MAT-2930-REV-9"
             }
           }
         ]
@@ -215,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEL-1000-REV-Labo-6.md",
+                "file": "MAT-2930-REV-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +263,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MAT-2930-REV-9"
             }
           }
         ]
@@ -234,7 +276,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -244,35 +285,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ce35993eb66e939",
+  "active": "558473a00c944deb",
   "lastOpenFiles": [
-    "README.md",
+    "MAT-2930-REV-8.md",
+    "MAT-2930-REV-9.md",
+    "MAT-2930-REV-Labo-4.md",
+    "MAT-2930-REV-Labo-3.md",
+    "Factorisation PTLU.md",
+    "Matrice.md",
+    "Vecteur.md",
+    "MAT-2930-REV-7.md",
+    "MAT-2930-REV-6.md",
+    "Algorithme de Gauss-Jordan.md",
+    "Matrice inverse.md",
+    "Matrice singulaire.md",
+    "MAT-2930-REV-Labo-2.md",
+    "Méthode itérative.md",
+    "Indépendance linéaire.md",
+    "MAT-2930-REV-5.md",
+    "Système homogène.md",
+    "Characterisation d'un système linéaire infinie.md",
+    "Calcule par conditionnement.md",
+    "MAT-2930-REV-4.md",
+    "MAT-2930.md",
     "GEL-1000-REV-Labo-6.md",
+    "README.md",
     "personal",
     "Vecteur aléatoire.md",
     "Variance.md",
     "Variable aléatoire discrète.md",
-    "Variable aléatoire continue.md",
-    "Triangle de Pascale.md",
-    "Théorème de Bayes.md",
-    "STT-2920-REV-2.md",
-    "STT-2920-REV-1.md",
-    "STT-2920.md",
-    "Problèmes d'urne et boule.md",
-    "Probabilité conditionnel.md",
-    "Principe fondamental du dénombrement.md",
-    "Permutation.md",
-    "Partition probabilistique.md",
-    "Lois marginales.md",
-    "Lois des probabilité total.md",
-    "Lois de probabilité.md",
-    "Loi uniforme discrète.md",
-    "Loi uniforme continue.md",
-    "Loi géométrique.md",
-    "Loi exponentielle.md",
-    "Loi de Poisson.md",
-    "Loi de Bernoulli.md",
-    "Loi binomiale négative.md",
     "Transformation delta-Y",
     "Templates",
     "Classes/Untitled",
