@@ -1,0 +1,406 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#Portfolio",
+          "hierarchy": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7347aceb-589e-4445-acea-d1c5b4f54801",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "08ff8660-5329-46bf-9860-b20d822b8cf4",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fcbb2038-88de-460b-a18e-6b1ac9833948",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "46034ce9-354e-4aa7-8567-6784aa8c6d3b",
+      "name": "Portfolio"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#school",
+          "hierarchy": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "banner",
+            "includeFields": [
+              "teacher"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "Course"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "751ffd2f-c234-4de4-9bb2-5e183bfb9c31",
+          "name": "Courses",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "interval": "2weeks"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "date",
+                "operator": "is-not-empty",
+                "enabled": true,
+                "value": ""
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ffffff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "STT-2920"
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "MAT-2930"
+                }
+              },
+              {
+                "color": "#000000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GEL-1000"
+                }
+              },
+              {
+                "color": "#007dff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GLO-2100"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "44f2ce44-1a50-4be0-8fb5-ec927446101a",
+          "name": "Schedule",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "banner": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "faculter": {
+                "hide": true
+              },
+              "note": {
+                "hide": true
+              },
+              "session": {
+                "hide": true
+              },
+              "teacher": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              },
+              "date": {
+                "width": 587
+              },
+              "name": {
+                "width": 430
+              },
+              "course": {
+                "width": 374
+              },
+              "ponderation": {
+                "hide": true
+              },
+              "Complete": {
+                "width": 110
+              }
+            },
+            "orderFields": [
+              "Complete",
+              "course",
+              "name",
+              "date"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "Class"
+              },
+              {
+                "field": "Complete",
+                "operator": "is-not-checked",
+                "enabled": true,
+                "value": "2024-11-18"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "MAT-2930"
+                }
+              },
+              {
+                "color": "#ffffff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "STT-2920"
+                }
+              },
+              {
+                "color": "#007dff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GLO-2100"
+                }
+              },
+              {
+                "color": "#000000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GEL-1000"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "e8a68939-a124-4c50-bdc8-be6aea03f6b4",
+          "name": "Classes",
+          "type": "table"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "banner": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "faculter": {
+                "hide": true
+              },
+              "session": {
+                "hide": true
+              },
+              "teacher": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "Complete",
+              "name",
+              "course",
+              "date",
+              "ponderation",
+              "note",
+              "Complete"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "type",
+                "operator": "is",
+                "enabled": true,
+                "value": "Evaluation"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "MAT-2930"
+                }
+              },
+              {
+                "color": "#ffffff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "STT-2920"
+                }
+              },
+              {
+                "color": "#007dff",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GLO-2100"
+                }
+              },
+              {
+                "color": "#000000",
+                "condition": {
+                  "field": "course",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "GEL-1000"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "date",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "02cdce1b-d41e-4731-968d-5017b7ee4d07",
+          "name": "Evaluations",
+          "type": "table"
+        }
+      ],
+      "id": "3ae69f4e-221b-4075-9472-f20d76041d2b",
+      "name": "School"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

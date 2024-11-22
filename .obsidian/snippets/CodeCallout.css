@@ -1,0 +1,6 @@
+/* Custom code callout */
+
+.callout[data-callout="code-family"] {
+    --callout-color: 127, 127, 127;
+    --callout-icon: lucide-scroll-text;
+}

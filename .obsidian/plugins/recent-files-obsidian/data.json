@@ -1,205 +1,39 @@
 {
   "recentFiles": [
     {
-      "basename": "MAT-2930-REV-9",
-      "path": "MAT-2930-REV-9.md"
-    },
-    {
-      "basename": "MAT-2930-REV-8",
-      "path": "MAT-2930-REV-8.md"
-    },
-    {
-      "basename": "MAT-2930-REV-Labo-4",
-      "path": "MAT-2930-REV-Labo-4.md"
-    },
-    {
-      "basename": "MAT-2930-REV-Labo-3",
-      "path": "MAT-2930-REV-Labo-3.md"
-    },
-    {
-      "basename": "Factorisation PTLU",
-      "path": "Factorisation PTLU.md"
-    },
-    {
-      "basename": "Matrice",
-      "path": "Matrice.md"
-    },
-    {
-      "basename": "Vecteur",
-      "path": "Vecteur.md"
-    },
-    {
-      "basename": "MAT-2930-REV-7",
-      "path": "MAT-2930-REV-7.md"
-    },
-    {
-      "basename": "MAT-2930-REV-6",
-      "path": "MAT-2930-REV-6.md"
-    },
-    {
-      "basename": "Algorithme de Gauss-Jordan",
-      "path": "Algorithme de Gauss-Jordan.md"
-    },
-    {
-      "basename": "Matrice inverse",
-      "path": "Matrice inverse.md"
-    },
-    {
-      "basename": "Matrice singulaire",
-      "path": "Matrice singulaire.md"
-    },
-    {
-      "basename": "MAT-2930-REV-Labo-2",
-      "path": "MAT-2930-REV-Labo-2.md"
-    },
-    {
-      "basename": "Méthode itérative",
-      "path": "Méthode itérative.md"
-    },
-    {
-      "basename": "Indépendance linéaire",
-      "path": "Indépendance linéaire.md"
-    },
-    {
-      "basename": "MAT-2930-REV-5",
-      "path": "MAT-2930-REV-5.md"
-    },
-    {
-      "basename": "Système homogène",
-      "path": "Système homogène.md"
-    },
-    {
-      "basename": "Characterisation d'un système linéaire infinie",
-      "path": "Characterisation d'un système linéaire infinie.md"
-    },
-    {
-      "basename": "Calcule par conditionnement",
-      "path": "Calcule par conditionnement.md"
-    },
-    {
-      "basename": "MAT-2930-REV-4",
-      "path": "MAT-2930-REV-4.md"
-    },
-    {
-      "basename": "MAT-2930",
-      "path": "MAT-2930.md"
-    },
-    {
-      "basename": "GEL-1000-REV-Labo-6",
-      "path": "GEL-1000-REV-Labo-6.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Vecteur aléatoire",
-      "path": "Vecteur aléatoire.md"
+      "basename": "GEL-1000-CLASS-19",
+      "path": "Courses/GEL-1000/GEL-1000-CLASS-19.md"
     },
     {
-      "basename": "Variance",
-      "path": "Variance.md"
+      "basename": "MAT-2930-CLASS-19",
+      "path": "Courses/MAT-2930/MAT-2930-CLASS-19.md"
     },
     {
-      "basename": "Variable aléatoire discrète",
-      "path": "Variable aléatoire discrète.md"
+      "basename": "GLO-2100-CHAPITER-8",
+      "path": "Courses/GLO-2100/Chapter/GLO-2100-CHAPITER-8.md"
     },
     {
-      "basename": "Variable aléatoire continue",
-      "path": "Variable aléatoire continue.md"
+      "basename": "GLO-2100-CLASS-22",
+      "path": "Courses/GLO-2100/GLO-2100-CLASS-22.md"
     },
     {
-      "basename": "Triangle de Pascale",
-      "path": "Triangle de Pascale.md"
+      "basename": "GEL-1000-CLASS-21",
+      "path": "Courses/GEL-1000/GEL-1000-CLASS-21.md"
     },
     {
-      "basename": "Théorème de Bayes",
-      "path": "Théorème de Bayes.md"
+      "basename": "GEL-1000-CLASS-20",
+      "path": "Courses/GEL-1000/GEL-1000-CLASS-20.md"
     },
     {
-      "basename": "STT-2920-REV-2",
-      "path": "STT-2920-REV-2.md"
-    },
-    {
-      "basename": "STT-2920-REV-1",
-      "path": "STT-2920-REV-1.md"
-    },
-    {
-      "basename": "STT-2920",
-      "path": "STT-2920.md"
-    },
-    {
-      "basename": "Problèmes d'urne et boule",
-      "path": "Problèmes d'urne et boule.md"
-    },
-    {
-      "basename": "Probabilité conditionnel",
-      "path": "Probabilité conditionnel.md"
-    },
-    {
-      "basename": "Principe fondamental du dénombrement",
-      "path": "Principe fondamental du dénombrement.md"
-    },
-    {
-      "basename": "Permutation",
-      "path": "Permutation.md"
-    },
-    {
-      "basename": "Partition probabilistique",
-      "path": "Partition probabilistique.md"
-    },
-    {
-      "basename": "Lois marginales",
-      "path": "Lois marginales.md"
-    },
-    {
-      "basename": "Lois des probabilité total",
-      "path": "Lois des probabilité total.md"
-    },
-    {
-      "basename": "Lois de probabilité",
-      "path": "Lois de probabilité.md"
-    },
-    {
-      "basename": "Loi uniforme discrète",
-      "path": "Loi uniforme discrète.md"
-    },
-    {
-      "basename": "Loi uniforme continue",
-      "path": "Loi uniforme continue.md"
-    },
-    {
-      "basename": "Loi géométrique",
-      "path": "Loi géométrique.md"
-    },
-    {
-      "basename": "Loi exponentielle",
-      "path": "Loi exponentielle.md"
-    },
-    {
-      "basename": "Loi de Poisson",
-      "path": "Loi de Poisson.md"
-    },
-    {
-      "basename": "Loi de Bernoulli",
-      "path": "Loi de Bernoulli.md"
-    },
-    {
-      "basename": "Loi binomiale négative",
-      "path": "Loi binomiale négative.md"
-    },
-    {
-      "basename": "Loi binomiale",
-      "path": "Loi binomiale.md"
-    },
-    {
-      "basename": "Indépendance probabiliste",
-      "path": "Indépendance probabiliste.md"
-    },
-    {
-      "basename": "Formule de Stirling",
-      "path": "Formule de Stirling.md"
+      "basename": "GLO-2100-CLASS-21",
+      "path": "Courses/GLO-2100/GLO-2100-CLASS-21.md"
     }
   ],
-  "omittedPaths": []
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
 }

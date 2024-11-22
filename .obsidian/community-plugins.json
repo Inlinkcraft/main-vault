@@ -2,10 +2,17 @@
   "dataview",
   "homepage",
   "recent-files-obsidian",
-  "quick-latex",
   "obsidian-banners",
   "code-styler",
   "obsidian-circuitjs",
   "obsidian-style-settings",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "pdf-plus",
+  "obsidian-latex-suite",
+  "latex-ocr",
+  "quick-latex",
+  "obsidian-git",
+  "supercharged-links-obsidian",
+  "obsidian-projects",
+  "obsidian-hover-editor"
 ]

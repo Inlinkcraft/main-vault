@@ -3,6 +3,6 @@
   "propertiesInDocument": "hidden",
   "showLineNumber": false,
   "useTab": false,
-  "showRibbon": false,
+  "showRibbon": true,
   "alwaysUpdateLinks": true
 }

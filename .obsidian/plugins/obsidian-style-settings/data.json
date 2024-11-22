@@ -1,5 +1,5 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
@@ -21,5 +21,11 @@
   "anuppuccin-theme-settings@@anp-card-radius": 2,
   "anuppuccin-theme-settings@@anp-card-layout-padding": 3,
   "anuppuccin-theme-settings@@anp-card-header-left-padding": 1,
-  "anuppuccin-theme-settings@@anp-cursor": "pointer"
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "supercharged-links@@5b16-fc3b-before": "",
+  "supercharged-links@@5b16-fc3b-color": "#555555",
+  "supercharged-links@@d4bf-c9ab-color": "#0088D7",
+  "supercharged-links@@44ec-3218-color": "#D35500",
+  "supercharged-links@@a718-f82b-color": "#00D060",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
 }

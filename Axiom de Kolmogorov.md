@@ -10,7 +10,7 @@ Axiome définie pour travaillé avec des probabilité
 ---
 1. Pour tout $A \subset \Omega$, on a $O \le \mathbb{P}[A] \le 1$
 2. $\mathbb{P}[\emptyset] = 0$ et $\mathbb{P}[\Omega] = 1$
-3. Si on a $A_{1}, A_{2}, \dots, A_{n} \subset \Omega$ qui sont [[STT-2920-REV-1#Vers une approche uniform|mutuellement exclusif]] alors:
+3. Si on a $A_{1}, A_{2}, \dots, A_{n} \subset \Omega$ qui sont [[STT-2920-CLASS-1#Vers une approche uniform|mutuellement exclusif]] alors:
 $$\mathbb{P}[A_{1}\cup A_{2}\cup \dots \cup A_{n}] = \sum_{i=1}^{n}\mathbb{P}[A_i]$$
 
 ### Conséquence des axiom

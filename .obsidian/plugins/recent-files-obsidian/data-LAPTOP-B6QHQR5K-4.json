@@ -1,0 +1,191 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "STT-2920-Chapter-7",
+      "path": "Classes/STT-2920/Chapter/STT-2920-Chapter-7.pdf"
+    },
+    {
+      "basename": "STT-2920",
+      "path": "Classes/STT-2920/STT-2920.md"
+    },
+    {
+      "basename": "Feature",
+      "path": "Projects/Portfolio/Feature.md"
+    },
+    {
+      "basename": "Project document",
+      "path": "Projects/Portfolio/Project document.md"
+    },
+    {
+      "basename": "Loi de Poisson",
+      "path": "Loi de Poisson.md"
+    },
+    {
+      "basename": "Loi géométrique",
+      "path": "Loi géométrique.md"
+    },
+    {
+      "basename": "Loi exponentielle",
+      "path": "Loi exponentielle.md"
+    },
+    {
+      "basename": "STT-2920-REV-Labo-2",
+      "path": "Classes/STT-2920/STT-2920-REV-Labo-2.md"
+    },
+    {
+      "basename": "Admittance",
+      "path": "Admittance.md"
+    },
+    {
+      "basename": "Coefficient de corrélation",
+      "path": "Coefficient de corrélation.md"
+    },
+    {
+      "basename": "Covariance",
+      "path": "Covariance.md"
+    },
+    {
+      "basename": "Fonction génératrice des moment",
+      "path": "Fonction génératrice des moment.md"
+    },
+    {
+      "basename": "Variance",
+      "path": "Variance.md"
+    },
+    {
+      "basename": "Espérance",
+      "path": "Espérance.md"
+    },
+    {
+      "basename": "MAT-2930-REV-11",
+      "path": "Classes/MAT-2930/MAT-2930-REV-11.md"
+    },
+    {
+      "basename": "MAT-2930",
+      "path": "Classes/MAT-2930/MAT-2930.md"
+    },
+    {
+      "basename": "GEL-1000",
+      "path": "Classes/GEL-1000/GEL-1000.md"
+    },
+    {
+      "basename": "GEL-1000-REV-6",
+      "path": "Classes/GEL-1000/GEL-1000-REV-6.md"
+    },
+    {
+      "basename": "Excitation électrique",
+      "path": "Excitation électrique.md"
+    },
+    {
+      "basename": "Échelon unitaire",
+      "path": "Échelon unitaire.md"
+    },
+    {
+      "basename": "Impulsion de Dirac",
+      "path": "Impulsion de Dirac.md"
+    },
+    {
+      "basename": "Fonction exponentielle",
+      "path": "Fonction exponentielle.md"
+    },
+    {
+      "basename": "Rampe",
+      "path": "Rampe.md"
+    },
+    {
+      "basename": "Porte",
+      "path": "Porte.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-6",
+      "path": "Classes/GEL-1000/GEL-1000-REV-Labo-6.md"
+    },
+    {
+      "basename": "GEL-1000-REV-5",
+      "path": "Classes/GEL-1000/GEL-1000-REV-5.md"
+    },
+    {
+      "basename": "Principe de superposition",
+      "path": "Principe de superposition.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-5",
+      "path": "Classes/GEL-1000/GEL-1000-REV-Labo-5.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-4",
+      "path": "Classes/GEL-1000/GEL-1000-REV-Labo-4.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-3",
+      "path": "Classes/GEL-1000/GEL-1000-REV-Labo-3.md"
+    },
+    {
+      "basename": "GEL-1000-REV-Labo-2",
+      "path": "Classes/GEL-1000/GEL-1000-REV-Labo-2.md"
+    },
+    {
+      "basename": "GLO-2100-REV-Labo-1",
+      "path": "Classes/GLO-2100/GLO-2100-REV-Labo-1.md"
+    },
+    {
+      "basename": "GLO-2100-REV-Labo-2",
+      "path": "Classes/GLO-2100/GLO-2100-REV-Labo-2.md"
+    },
+    {
+      "basename": "Algorithme de Bellman-Ford",
+      "path": "Algorithme de Bellman-Ford.md"
+    },
+    {
+      "basename": "GLO-2100-REV-6",
+      "path": "Classes/GLO-2100/GLO-2100-REV-6.md"
+    },
+    {
+      "basename": "Tri-topologique",
+      "path": "Tri-topologique.md"
+    },
+    {
+      "basename": "GLO-2100-REV-5",
+      "path": "Classes/GLO-2100/GLO-2100-REV-5.md"
+    },
+    {
+      "basename": "Algorithme de Dijkstra",
+      "path": "Algorithme de Dijkstra.md"
+    },
+    {
+      "basename": "Algorithme du parcours en largeur",
+      "path": "Algorithme du parcours en largeur.md"
+    },
+    {
+      "basename": "Algorithme de Kosaraju",
+      "path": "Algorithme de Kosaraju.md"
+    },
+    {
+      "basename": "GLO-2100-REV-4",
+      "path": "Classes/GLO-2100/GLO-2100-REV-4.md"
+    },
+    {
+      "basename": "Algorithme de parcours en profondeur d'un graph",
+      "path": "Algorithme de parcours en profondeur d'un graph.md"
+    },
+    {
+      "basename": "GLO-2100-REV-3",
+      "path": "Classes/GLO-2100/GLO-2100-REV-3.md"
+    },
+    {
+      "basename": "Graph",
+      "path": "Graph.md"
+    },
+    {
+      "basename": "Arbre graphique",
+      "path": "Arbre graphique.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
+}

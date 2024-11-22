@@ -4,48 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1802441e169174ba",
+        "id": "ae91ee79f87f66c3",
         "type": "tabs",
-        "dimension": 54.19229524117838,
         "children": [
           {
-            "id": "3ce35993eb66e939",
+            "id": "cd71439d4bdeef2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT-2930-REV-9.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAT-2930-REV-9"
-            },
-            "group": "b5b4560f3aef167d"
-          }
-        ]
-      },
-      {
-        "id": "2bca1b2bf99723cb",
-        "type": "tabs",
-        "dimension": 45.80770475882163,
-        "children": [
-          {
-            "id": "558473a00c944deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT-2930-REV-9.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "MAT-2930-REV-9"
-            },
-            "group": "b5b4560f3aef167d"
+              "title": "README"
+            }
           }
         ]
       }
@@ -101,16 +76,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "f52b3bb884f2f24d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       },
@@ -132,150 +97,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 283.5
   },
   "right": {
     "id": "3bb0178be2311b33",
     "type": "split",
     "children": [
       {
-        "id": "1e27d74710652435",
+        "id": "c611326fd7a8a46a",
         "type": "tabs",
-        "dimension": 22.285714285714285,
         "children": [
           {
-            "id": "bb40b506f7532bf7",
+            "id": "9d677c586c9171e2",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "MAT-2930-REV-9.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of MAT-2930-REV-9"
-            }
-          },
-          {
-            "id": "23df578ddfa585ac",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "MAT-2930-REV-9.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from MAT-2930-REV-9"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d3c6fbc5092c6c9",
-        "type": "tabs",
-        "dimension": 44.285714285714285,
-        "children": [
-          {
-            "id": "bbb6c5b44ef36c6d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "MAT-2930-REV-9.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#GEL-1000  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 0
-                      }
-                    },
-                    {
-                      "query": "tag:#GLO-2100  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 3223295
-                      }
-                    },
-                    {
-                      "query": "tag:#MAT-2930  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 16711680
-                      }
-                    },
-                    {
-                      "query": "tag:#STT-2920  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13432831
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.000000000000001,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of MAT-2930-REV-9"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a05b681345bc3145",
-        "type": "tabs",
-        "dimension": 33.42857142857143,
-        "children": [
-          {
-            "id": "4d010a3fa5074fdf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MAT-2930-REV-9.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for MAT-2930-REV-9"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 504
+    "width": 622
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-projects:Open projects": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "latex-ocr:LatexOCR": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -285,38 +141,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "558473a00c944deb",
+  "active": "cd71439d4bdeef2e",
   "lastOpenFiles": [
-    "MAT-2930-REV-8.md",
-    "MAT-2930-REV-9.md",
-    "MAT-2930-REV-Labo-4.md",
-    "MAT-2930-REV-Labo-3.md",
-    "Factorisation PTLU.md",
-    "Matrice.md",
-    "Vecteur.md",
-    "MAT-2930-REV-7.md",
-    "MAT-2930-REV-6.md",
-    "Algorithme de Gauss-Jordan.md",
-    "Matrice inverse.md",
-    "Matrice singulaire.md",
-    "MAT-2930-REV-Labo-2.md",
-    "Méthode itérative.md",
-    "Indépendance linéaire.md",
-    "MAT-2930-REV-5.md",
-    "Système homogène.md",
-    "Characterisation d'un système linéaire infinie.md",
-    "Calcule par conditionnement.md",
-    "MAT-2930-REV-4.md",
-    "MAT-2930.md",
-    "GEL-1000-REV-Labo-6.md",
+    "Courses/GEL-1000/GEL-1000-CLASS-19.md",
+    "Courses/MAT-2930/MAT-2930-CLASS-19.md",
     "README.md",
-    "personal",
-    "Vecteur aléatoire.md",
-    "Variance.md",
-    "Variable aléatoire discrète.md",
-    "Transformation delta-Y",
-    "Templates",
-    "Classes/Untitled",
-    "Classes"
+    "Courses/GLO-2100/Chapter/GLO-2100-CHAPITER-8.md",
+    "Courses/GLO-2100/Assets/Chapitre-8.pdf",
+    "Courses/GLO-2100/Assets/Chapitre-7.pdf",
+    "Courses/GLO-2100/Assets/Chapitre-8.pdf.crdownload",
+    "Courses/GLO-2100/GLO-2100.md",
+    "Courses/GLO-2100/Chapter/GLO-2100-CHAPITER-7.md",
+    "Courses/MAT-2930/Assets/Chapitre-5d.pdf",
+    "Courses/MAT-2930/Chapter/MAT-2930-CHAPITER-5.md",
+    "Courses/GLO-2100/Assets/Chapitre-7.pdf.crdownload",
+    "Courses/MAT-2930/MAT-2930-CLASS-20.md",
+    "Courses/MAT-2930/Assets/Chapitre-5c.pdf",
+    "Courses/MAT-2930/Assets/Chapitre-5b.pdf",
+    "Courses/GLO-2100/GLO-2100-CLASS-21.md",
+    "Courses/MAT-2930/Assets/Chapitre-5e.pdf",
+    "Courses/MAT-2930/Assets/Chapitre-5e.pdf.crdownload",
+    "Courses/MAT-2930/Assets/Chapitre-5d.pdf.crdownload",
+    "Courses/STT-2920/STT-2920-CLASS-20.md",
+    "Classes/STT-2920/STT-2920-CLASS-20.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-9.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-8.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-7.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-6.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-5.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-4.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-3.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-2.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-13.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-12.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-11.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-10.md",
+    "Courses/STT-2920/Chapter/STT-2920-CHAPITER-1.md",
+    "Courses/MAT-2930/Chapter/MAT-2930-CHAPITER-4.md",
+    "Courses/MAT-2930/Chapter/MAT-2930-CHAPITER-3.md",
+    "Pasted image 20241113221448.png",
+    "Pasted image 20241113221443.png"
   ]
 }

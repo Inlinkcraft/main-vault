@@ -4,7 +4,7 @@
 
 ```dataview
 TABLE name as "Name", session as "Session"
-WHERE type = "Class" and name != null
+WHERE type = "Course" and name != null
 ```
 
 ### Révision récente
